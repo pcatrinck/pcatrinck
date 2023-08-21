@@ -1,4 +1,14 @@
-### Hi there 👋
+# hello! 👋
+## here you will find some of my own projects and contributions
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/leroypatterson-working-busy-workaholic-lTRuG1F4VZ3LHMpXY2" width="100"/>
+</div>
+
+ - ⚡ i am in the fourth semester of electrical engineering at the federal university of espírito santo.
+ - :technologist: currently **vitória baja** manager and **pet elétrica** member.
+ - :sparkles: former **projeto solares** assessor.
+
 
 <!--
 **pcatrinck/pcatrinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
