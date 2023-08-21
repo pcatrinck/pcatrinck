@@ -1,5 +1,5 @@
-# hello! 👋
-## here you will find some of my own projects and contributions
+### hello! 👋
+### here you will find some of my own projects and contributions
 
   - ⚡ i am in the fourth semester of electrical engineering at the federal university of espírito santo.
   - 👩‍💻 currently <b>vitória baja</b> manager and **pet elétrica** member.
