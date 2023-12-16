@@ -1,9 +1,9 @@
 ## Hello! 👋
 ### Here you will find some of my own projects and contributions
 
-  - ⚡ i am in the fourth semester of electrical engineering at the federal university of espírito santo.
-  - 👩‍💻 currently <b>vitória baja</b> manager and **pet elétrica** member.
-  - 🌞 former **projeto solares** assessor.
+  - 🚀 I am in the fifth semester of electrical engineering at the federal university of espírito santo.
+  - 👩‍💻 Currently **Pet Elétrica** member.
+  - ⚡ Former **Vitória Baja** Eletrical and Eletronics Manager and **Projeto Solares** assessor.
 
 
 ### Tools and Technologies
